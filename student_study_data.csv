@@ -1,0 +1,101 @@
+Student_ID,Subjects,Weak Areas,Strong Areas,Study Hours Available,Past Scores (%),Preferred Study Method,Exam Date (Days Left)
+1,"Math, Computer Science, Biology",Science,English,6,80,Concept Learning,35
+2,"Computer Science, Biology, Chemistry",Biology,Biology,3,79,Revision Notes,50
+3,"English, Computer Science, Physics",Science,Physics,4,85,Revision Notes,25
+4,"Science, History, Math",Physics,History,1,86,Practice Questions,41
+5,"Science, Biology, Chemistry",Biology,History,1,92,Practice Questions,34
+6,"Physics, Chemistry, Geography",Chemistry,Computer Science,6,40,Concept Learning,20
+7,"History, Computer Science, Geography",Physics,Biology,5,69,Concept Learning,37
+8,"History, Geography, Biology",History,English,4,59,Group Study,29
+9,"Science, Computer Science, Physics",Physics,Math,4,41,Revision Notes,39
+10,"History, English, Math",Science,English,3,84,Video Lectures,40
+11,"Physics, Biology, Geography",Physics,Biology,3,62,Practice Questions,47
+12,"Chemistry, Computer Science, Physics",Math,Chemistry,2,65,Revision Notes,52
+13,"English, History, Computer Science",History,Physics,6,54,Group Study,38
+14,"Computer Science, Science, Chemistry",Math,Math,1,80,Revision Notes,19
+15,"Math, Geography, Biology",Chemistry,Chemistry,3,71,Revision Notes,54
+16,"Science, Computer Science, History",Math,Biology,3,88,Revision Notes,40
+17,"Math, Geography, Science",Chemistry,Math,5,71,Concept Learning,43
+18,"Science, Biology, Geography",Science,Chemistry,3,83,Concept Learning,26
+19,"Science, Biology, English",Math,Biology,5,57,Group Study,24
+20,"Computer Science, English, Math",Math,Computer Science,3,85,Revision Notes,15
+21,"English, Biology, Science",Science,History,3,71,Group Study,12
+22,"English, Physics, Geography",History,Computer Science,3,90,Group Study,55
+23,"Math, English, Biology",Geography,English,3,48,Revision Notes,48
+24,"Science, Geography, Chemistry",History,Chemistry,6,61,Concept Learning,44
+25,"Biology, Science, Physics",Biology,Biology,2,42,Practice Questions,40
+26,"History, Science, Math",Science,English,1,88,Concept Learning,46
+27,"Geography, Math, Biology",History,English,1,85,Revision Notes,51
+28,"Physics, Math, Computer Science",English,Physics,4,87,Video Lectures,46
+29,"Geography, Chemistry, Biology",Chemistry,English,4,58,Revision Notes,39
+30,"Geography, Math, Science",Biology,Biology,4,75,Video Lectures,5
+31,"Physics, Geography, English",Chemistry,Physics,4,93,Concept Learning,35
+32,"Biology, Computer Science, Chemistry",History,Biology,1,60,Group Study,29
+33,"Chemistry, Math, English",Geography,English,3,63,Concept Learning,44
+34,"Math, Physics, History",English,English,3,61,Group Study,18
+35,"History, Chemistry, Science",Geography,Chemistry,3,40,Concept Learning,30
+36,"Computer Science, History, English",Computer Science,Science,4,88,Revision Notes,30
+37,"Chemistry, Biology, Math",Geography,Chemistry,1,61,Group Study,10
+38,"Geography, Science, Math",Biology,History,5,76,Practice Questions,12
+39,"Geography, Physics, Chemistry",Geography,Science,1,62,Video Lectures,10
+40,"Computer Science, Physics, Science",Physics,Chemistry,1,87,Video Lectures,53
+41,"English, Math, Geography",Physics,Physics,3,75,Concept Learning,47
+42,"Physics, Biology, Science",Chemistry,Biology,6,79,Concept Learning,36
+43,"Math, English, Chemistry",History,Physics,1,66,Concept Learning,23
+44,"English, Computer Science, History",Physics,History,1,79,Concept Learning,15
+45,"Math, English, Geography",Chemistry,Geography,3,80,Video Lectures,8
+46,"Science, Geography, Chemistry",English,Biology,6,64,Practice Questions,45
+47,"Physics, Biology, Computer Science",Science,Biology,6,61,Group Study,40
+48,"Science, Math, English",Geography,English,5,94,Video Lectures,31
+49,"English, Chemistry, Physics",Geography,English,4,42,Revision Notes,28
+50,"Physics, History, Biology",Chemistry,Computer Science,4,61,Revision Notes,43
+51,"Chemistry, English, Biology",Geography,Geography,6,64,Practice Questions,48
+52,"Geography, Math, Chemistry",Geography,English,1,79,Practice Questions,44
+53,"Geography, Science, Physics",Computer Science,Physics,1,74,Practice Questions,13
+54,"History, Biology, Computer Science",Geography,Computer Science,5,62,Video Lectures,5
+55,"Science, Biology, Chemistry",Chemistry,Math,5,60,Practice Questions,24
+56,"Geography, History, Chemistry",English,Chemistry,4,53,Practice Questions,45
+57,"History, Physics, Chemistry",History,Geography,5,94,Revision Notes,53
+58,"History, Geography, Computer Science",Chemistry,Physics,6,52,Practice Questions,49
+59,"Science, Physics, History",Math,Science,3,87,Concept Learning,16
+60,"Science, Biology, History",Chemistry,Biology,4,61,Group Study,11
+61,"English, Computer Science, Science",Geography,Physics,1,66,Video Lectures,29
+62,"Chemistry, Biology, Computer Science",Physics,Math,4,45,Concept Learning,57
+63,"Physics, Biology, History",Science,Biology,4,53,Video Lectures,42
+64,"Science, Chemistry, Computer Science",Biology,History,2,74,Practice Questions,33
+65,"Computer Science, Biology, Chemistry",Chemistry,Biology,5,51,Concept Learning,44
+66,"Science, Biology, Math",Science,Computer Science,3,76,Revision Notes,43
+67,"History, Physics, English",History,Physics,2,89,Concept Learning,13
+68,"Physics, Computer Science, History",Math,Geography,4,79,Video Lectures,46
+69,"Science, English, Biology",Chemistry,History,6,64,Revision Notes,30
+70,"Geography, Math, English",Math,Science,5,87,Practice Questions,58
+71,"History, Computer Science, Chemistry",Science,Math,2,86,Group Study,20
+72,"Biology, History, Computer Science",Math,Science,3,69,Revision Notes,18
+73,"History, Physics, English",Chemistry,Physics,4,52,Practice Questions,19
+74,"Science, Biology, Chemistry",Computer Science,English,5,68,Concept Learning,22
+75,"Computer Science, Biology, English",Science,Geography,4,70,Video Lectures,19
+76,"Geography, English, Computer Science",Geography,Chemistry,3,54,Revision Notes,32
+77,"Science, History, Computer Science",Math,Chemistry,2,89,Practice Questions,43
+78,"Computer Science, Biology, Science",Science,History,1,53,Concept Learning,7
+79,"Biology, Chemistry, Physics",Chemistry,Geography,5,74,Revision Notes,42
+80,"Science, Math, English",Geography,Science,3,40,Group Study,43
+81,"English, Biology, Computer Science",Computer Science,English,5,60,Concept Learning,16
+82,"English, Chemistry, Computer Science",History,History,5,48,Group Study,7
+83,"Science, Chemistry, Computer Science",History,Chemistry,5,79,Group Study,59
+84,"Biology, Computer Science, Math",Physics,Physics,5,87,Revision Notes,44
+85,"Biology, Computer Science, Chemistry",History,Geography,2,47,Revision Notes,29
+86,"Science, Chemistry, History",Math,Biology,3,95,Video Lectures,17
+87,"Computer Science, History, English",Science,Geography,6,78,Video Lectures,47
+88,"Computer Science, Chemistry, English",Chemistry,Biology,6,54,Group Study,19
+89,"English, Biology, Computer Science",Geography,Physics,1,40,Group Study,9
+90,"Chemistry, English, Computer Science",Math,Math,1,52,Group Study,51
+91,"Chemistry, Computer Science, English",Geography,Geography,1,87,Practice Questions,56
+92,"Chemistry, History, Math",Biology,History,5,88,Revision Notes,31
+93,"Computer Science, History, English",Biology,Geography,5,46,Concept Learning,46
+94,"Chemistry, English, Math",Math,Science,5,57,Concept Learning,60
+95,"Math, Biology, Science",Physics,Science,6,69,Revision Notes,20
+96,"Math, Chemistry, Science",Chemistry,Science,6,73,Revision Notes,27
+97,"Science, Math, History",Science,Math,5,74,Concept Learning,35
+98,"Science, Physics, Computer Science",Math,Chemistry,2,80,Revision Notes,23
+99,"Math, Science, Biology",History,Chemistry,1,44,Practice Questions,21
+100,"Biology, Physics, Computer Science",Geography,Computer Science,3,63,Group Study,32
